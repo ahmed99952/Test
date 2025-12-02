@@ -1,1 +1,1 @@
-alert("hello tttt");
+alert("this updater");
